@@ -12,14 +12,6 @@ Calculator Program
 Counter Program
 ```
 
-```
-Magician & The Secret Code
-```
-
-```
-Vowel Killer
-```
-
 ## ⭐️STAR⭐️
 
 1 Star = 444+ Motivation
