@@ -12,6 +12,10 @@ Calculator Program
 Counter Program
 ```
 
+```
+Magician And The Secret Code
+```
+
 ## ⭐️STAR⭐️
 
 1 Star = 444+ Motivation
