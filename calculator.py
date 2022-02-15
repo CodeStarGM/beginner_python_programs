@@ -11,17 +11,11 @@ choose_operation = input("""
 | 4 - Division       |
 +--------------------+
 """)
-def sum(a,b):
-    return a + b
 
-def subtract(a,b):
-    return a - b
-
-def multiply(a,b):
-    return a * b
-
-def divide(a,b):
-    return a / b
+sum = lambda a,b : a+b
+subtract = lambda a,b : a-b
+multiply = lambda a,b : a*b
+divide = lambda a,b : a/b
 
 if choose_operation == '1':
     num_1 = int(input('Enter First Number : '))
